@@ -1,3 +1,4 @@
+
 **Sam SuperMarket Simulation**
 
 Welcome to the **Sam SuperMarket Simulation**! This project is a Python-based program that simulates a supermarket shopping experience. It includes inventory management, customer interaction, and billing functionalities, all wrapped up in an interactive console-based system.
